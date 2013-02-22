@@ -1,4 +1,4 @@
 netrunner-image-downloader
 ==========================
 
-Scrape cardgamedb for Netrunner images and download them.
+Scrape cardgamedb for uncensored Android: Netrunner images and download them.
